@@ -1,0 +1,189 @@
+(* Content-type: application/mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 7.0' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       145,          7]
+NotebookDataLength[      4561,        179]
+NotebookOptionsPosition[      3571,        138]
+NotebookOutlinePosition[      3925,        154]
+CellTagsIndexPosition[      3882,        151]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell[BoxData[
+ RowBox[{"Graphics", "[", 
+  RowBox[{"{", 
+   RowBox[{
+    RowBox[{"RGBColor", "[", 
+     RowBox[{"1", ",", "0", ",", "0"}], "]"}], ",", 
+    RowBox[{"Disk", "[", "]"}]}], "}"}], "]"}]], "Input"],
+
+Cell[BoxData[
+ GraphicsBox[
+  {RGBColor[1, 0, 0], DiskBox[{0, 0}]}]], "Output",
+ CellChangeTimes->{3.7817376055489483`*^9}]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"Graphics", "[", 
+  RowBox[{"{", 
+   RowBox[{
+    RowBox[{"RGBColor", "[", 
+     RowBox[{"0", ",", "1", ",", "0"}], "]"}], ",", 
+    RowBox[{"Disk", "[", "]"}]}], "}"}], "]"}]], "Input",
+ CellChangeTimes->{{3.781737610452357*^9, 3.78173761209236*^9}}],
+
+Cell[BoxData[
+ GraphicsBox[
+  {RGBColor[0, 1, 0], DiskBox[{0, 0}]}]], "Output",
+ CellChangeTimes->{3.781737613231162*^9}]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"Graphics", "[", 
+  RowBox[{"{", 
+   RowBox[{
+    RowBox[{"RGBColor", "[", 
+     RowBox[{"0", ",", "0", ",", "1"}], "]"}], ",", 
+    RowBox[{"Disk", "[", "]"}]}], "}"}], "]"}]], "Input",
+ CellChangeTimes->{{3.7817376189623723`*^9, 3.781737620445375*^9}}],
+
+Cell[BoxData[
+ GraphicsBox[
+  {RGBColor[0, 0, 1], DiskBox[{0, 0}]}]], "Output",
+ CellChangeTimes->{3.7817376209143763`*^9}]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"Graphics", "[", 
+  RowBox[{"{", 
+   RowBox[{
+    RowBox[{"RGBColor", "[", 
+     RowBox[{"0", ",", "0", ",", "10"}], "]"}], ",", 
+    RowBox[{"Disk", "[", "]"}]}], "}"}], "]"}]], "Input",
+ CellChangeTimes->{{3.781737627501588*^9, 3.781737629125991*^9}}],
+
+Cell[BoxData[
+ GraphicsBox[
+  {RGBColor[0, 0, 10], DiskBox[{0, 0}]}]], "Output",
+ CellChangeTimes->{3.7817376297353916`*^9}]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"Graphics", "[", 
+  RowBox[{"{", 
+   RowBox[{
+    RowBox[{"RGBColor", "[", 
+     RowBox[{"0.5", ",", "0.5", ",", "0"}], "]"}], ",", 
+    RowBox[{"Disk", "[", "]"}]}], "}"}], "]"}]], "Input",
+ CellChangeTimes->{{3.781737644798419*^9, 3.781737647404623*^9}}],
+
+Cell[BoxData[
+ GraphicsBox[
+  {RGBColor[0.5, 0.5, 0], DiskBox[{0, 0}]}]], "Output",
+ CellChangeTimes->{3.781737648294825*^9}]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"Graphics", "[", 
+  RowBox[{"{", 
+   RowBox[{
+    RowBox[{"RGBColor", "[", 
+     RowBox[{"0.5", ",", "0", ",", "0.5"}], "]"}], ",", 
+    RowBox[{"Disk", "[", "]"}]}], "}"}], "]"}]], "Input",
+ CellChangeTimes->{{3.7817376549776373`*^9, 3.781737657972842*^9}}],
+
+Cell[BoxData[
+ GraphicsBox[
+  {RGBColor[0.5, 0, 0.5], DiskBox[{0, 0}]}]], "Output",
+ CellChangeTimes->{3.781737658816244*^9}]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"Graphics", "[", 
+  RowBox[{"{", 
+   RowBox[{
+    RowBox[{"RGBColor", "[", 
+     RowBox[{"0", ",", "0.5", ",", "0.5"}], "]"}], ",", 
+    RowBox[{"Disk", "[", "]"}]}], "}"}], "]"}]], "Input",
+ CellChangeTimes->{{3.7817376648886547`*^9, 3.7817376708206654`*^9}}],
+
+Cell[BoxData[
+ GraphicsBox[
+  {RGBColor[0, 0.5, 0.5], DiskBox[{0, 0}]}]], "Output",
+ CellChangeTimes->{3.781737671678667*^9}]
+}, Open  ]]
+},
+WindowSize->{1264, 664},
+WindowMargins->{{0, Automatic}, {Automatic, 0}},
+FrontEndVersion->"7.0 for Microsoft Windows (32-bit) (2009\:5e744\:670823\
+\:65e5)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[567, 22, 209, 6, 31, "Input"],
+Cell[779, 30, 123, 3, 374, "Output"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[939, 38, 274, 7, 31, "Input"],
+Cell[1216, 47, 121, 3, 374, "Output"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[1374, 55, 277, 7, 31, "Input"],
+Cell[1654, 64, 123, 3, 374, "Output"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[1814, 72, 276, 7, 31, "Input"],
+Cell[2093, 81, 124, 3, 374, "Output"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[2254, 89, 279, 7, 31, "Input"],
+Cell[2536, 98, 125, 3, 374, "Output"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[2698, 106, 281, 7, 31, "Input"],
+Cell[2982, 115, 125, 3, 374, "Output"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[3144, 123, 283, 7, 31, "Input"],
+Cell[3430, 132, 125, 3, 374, "Output"]
+}, Open  ]]
+}
+]
+*)
+
+(* End of internal cache information *)
+
